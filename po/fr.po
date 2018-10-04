@@ -5036,7 +5036,7 @@ msgstr "Trouver un objet"
 
 #: plugins/findobject/findobjectwindow.C:54
 msgid "Algorithm:"
-msgstr "Algorithme:"
+msgstr "Algorithme :"
 
 #: plugins/findobject/findobjectwindow.C:65
 msgid ""
